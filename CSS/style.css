@@ -1,0 +1,85 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+a {
+    color: #503c3a;
+}
+a:hover {
+    color: #86463f;
+}
+h1 {
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 36px;
+    color: #503c3a;
+}
+
+header {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 30px 0;
+}
+
+.logo {
+    float: left;
+}
+.logo img {
+    width: 170px;
+    height: auto;
+}
+
+nav.top {
+    float: right;
+    margin-top: 40px;
+}
+nav.top ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav.top li {
+    float: left;
+    margin: 0;
+    padding: 0 15px;
+}
+nav.top a {
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    text-decoration: none;
+    color: #503c3a;
+}
+nav.top a:hover {
+    color: #86463f;
+}
+
+.hero img {
+    width: 100%;
+    height: auto;
+
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+footer {
+    width: 80%;
+    text-align: center;
+    font-size: 16px;
+    margin: 0 auto;
+    padding: 40px 0 60px 0; 
+    
+}
+footer i {
+    font-size: 35px;
+    padding: 0 5px;
+}
+nav.bottom a {
+    text-decoration: none;
+}
